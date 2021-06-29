@@ -1,0 +1,10 @@
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\bin\Debug\MetadataEditor.exe.config
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\bin\Debug\MetadataEditor.exe
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\bin\Debug\MetadataEditor.pdb
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.csproj.AssemblyReference.cache
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.Form1.resources
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.Properties.Resources.resources
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.csproj.GenerateResource.cache
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.csproj.CoreCompileInputs.cache
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.exe
+C:\Users\Mendel\Desktop\MetadataEditor\MetadataEditor\obj\Debug\MetadataEditor.pdb
